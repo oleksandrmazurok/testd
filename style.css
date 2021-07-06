@@ -30,4 +30,6 @@ select:focus{
     display: inline-block;
     margin-bottom: 20px;
     }
-
+.btn:active{
+    font-style: 16px;
+    }
