@@ -24,7 +24,7 @@ select:focus{
     margin-bottom: 10px;
     }
 .btn{
-    font-size: initial;
+    font-size: 13px;
     height: 40px;
     padding: 5px;
     display: inline-block;
